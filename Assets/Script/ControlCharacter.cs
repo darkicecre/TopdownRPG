@@ -9,6 +9,7 @@ public class ControlCharacter : MonoBehaviour
     float Horizontal, Vertical;
     public GameObject Bullet;
     public GameObject ShootPoint;
+    public float hp;
 
 
     public Animator animator;
